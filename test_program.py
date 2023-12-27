@@ -19,7 +19,7 @@ def test_program():
         assert filename in dir_files, f'Файл `{filename}` не найден в корне репозитория'
 
 
-
+ааа
     try:
         import program
     except Exception as e:
